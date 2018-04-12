@@ -1,7 +1,7 @@
 package winrm
 
 import (
-	"github.com/Azure/go-ntlmssp"
+	"github.com/justdan96/go-ntlmssp"
 	"github.com/masterzen/winrm/soap"
 )
 
